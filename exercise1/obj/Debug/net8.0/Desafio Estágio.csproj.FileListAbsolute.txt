@@ -1,0 +1,14 @@
+C:\Users\Leila\Desktop\Desafio Estágio\fibonacci\bin\Debug\net8.0\Desafio Estágio.exe
+C:\Users\Leila\Desktop\Desafio Estágio\fibonacci\bin\Debug\net8.0\Desafio Estágio.deps.json
+C:\Users\Leila\Desktop\Desafio Estágio\fibonacci\bin\Debug\net8.0\Desafio Estágio.runtimeconfig.json
+C:\Users\Leila\Desktop\Desafio Estágio\fibonacci\bin\Debug\net8.0\Desafio Estágio.dll
+C:\Users\Leila\Desktop\Desafio Estágio\fibonacci\bin\Debug\net8.0\Desafio Estágio.pdb
+C:\Users\Leila\Desktop\Desafio Estágio\fibonacci\obj\Debug\net8.0\Desafio Estágio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leila\Desktop\Desafio Estágio\fibonacci\obj\Debug\net8.0\Desafio Estágio.AssemblyInfoInputs.cache
+C:\Users\Leila\Desktop\Desafio Estágio\fibonacci\obj\Debug\net8.0\Desafio Estágio.AssemblyInfo.cs
+C:\Users\Leila\Desktop\Desafio Estágio\fibonacci\obj\Debug\net8.0\Desafio Estágio.csproj.CoreCompileInputs.cache
+C:\Users\Leila\Desktop\Desafio Estágio\fibonacci\obj\Debug\net8.0\Desafio Estágio.dll
+C:\Users\Leila\Desktop\Desafio Estágio\fibonacci\obj\Debug\net8.0\refint\Desafio Estágio.dll
+C:\Users\Leila\Desktop\Desafio Estágio\fibonacci\obj\Debug\net8.0\Desafio Estágio.pdb
+C:\Users\Leila\Desktop\Desafio Estágio\fibonacci\obj\Debug\net8.0\Desafio Estágio.genruntimeconfig.cache
+C:\Users\Leila\Desktop\Desafio Estágio\fibonacci\obj\Debug\net8.0\ref\Desafio Estágio.dll
